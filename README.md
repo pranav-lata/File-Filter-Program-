@@ -1,2 +1,2 @@
-# File-Filter-Program-
+# File-Filter-Program using OS and SHUTIL
 This is a file filter program which filter the image files with extension (.jpeg,.png,.jpg), PDF files with extension (.pdf) and text files with extension (.txt) to their respective new folders which are created by the program itself. It is being created using OS and shutil module in python. All the steps are executed by th program itself we just need to specify the directory and provide the input files.
